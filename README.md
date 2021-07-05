@@ -1,3 +1,11 @@
+# This project is for demonstration purposes only.
+
+It's functionality:
+1. Add tasks
+2. Remove tasks
+3. Editing tasks
+4. Drag and drop tasks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
